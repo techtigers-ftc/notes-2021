@@ -1,3 +1,6 @@
 * [Home](./)
 * [Planning](./planning/README)
 * [Meeting Notes](./meeting-notes/README)
+* [Programming](./programming/README)
+* [How To](./how-to/README)
+* [Robot Design](./robot-design/README)
