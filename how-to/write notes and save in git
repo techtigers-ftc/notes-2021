@@ -1,0 +1,11 @@
+**How to write notes and commit to GitHub**
+Open up Visual Studio Code
+File → Open → Choose your file and click open.
+Under the correct section, create a new file
+Right Click and click “Open Preview” or “Open Preview to Side” to see your notes formatted
+Start typing your notes
+Once you have made your change, go to your course control tab on the left side.
+Click + Button - adds to staging area
+Add a message
+Command + enter to commit
+Click 3 dots, and click push
