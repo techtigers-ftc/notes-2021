@@ -52,3 +52,15 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 **Blocking**
 
 * Wating for program to test its basic navigation
+
+
+# 2021-10-5
+
+**Members Present:** Aadi, Govind, and Amulya
+
+**Notes:**
+* Built everything except the perimeter in the field kit
+
+**Blocking** 
+* Need to create space for perimeter
+* Waiting for tiles to arrive
