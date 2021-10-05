@@ -11,3 +11,28 @@
 
 **Blocking:**
 * Nothing
+
+# 2021-10-05
+
+**Members Present:** Amulya, Alisha, and Aadi
+
+**Notes:**
+* Created meeting agenda for robotics club day 1
+* Seperated the 5 different robot kits
+
+**Blocking:**
+* None
+
+# 2021-10-05
+
+**Members Present:** Amulya, Alisha, Aadi, and Rishi
+
+**Notes**
+* Collected checks for participants (17/20)
+* All 5 groups finished building their robots 
+
+**Blocking**
+* None
+
+
+
