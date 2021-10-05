@@ -1,0 +1,8 @@
+**How to add an ssh key**
+Open iterm or terminal
+Type in “ls ~/.ssh”
+Find the one with the ID
+Type in “ssh-add ~/.ssh/id_______”
+Type in “git clone + the ssh key you copied” again
+It should say “Cloning into ‘the directory you indicated’ ...“
+You are done!

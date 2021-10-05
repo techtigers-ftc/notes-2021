@@ -4,3 +4,4 @@
 * [Programming](./programming/class-design)
 * [How To](./how-to/README)
 * [Robot Design](./robot-design/README)
+* [Outreach](./outreach/outreach-notes.md)

@@ -1,0 +1,13 @@
+**How to clone a repository**
+Open iterm or terminal.
+Navigate to your projects directory. 
+Ls → allows you to see what directories you have
+Cd → changes your directory
+Open GitHub on a browser
+Go to the repository you want to clone
+Click the green code button
+Copy the ssh code
+Go back to your iterm or terminal window
+Type in “git clone + the ssh key you copied”
+It should say “Cloning into ‘the directory you indicated’ ...“
+Then you are done! If it says you do not have access, see How to add an ssh key
