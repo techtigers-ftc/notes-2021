@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 2021-10-17
 
 Members Present: Amu, Arya, Aadi, Govind, Rishi, Rishabh, Sava
@@ -33,7 +32,6 @@ Members Present: Amu
 Notes:
 
 * Began taking apart the lifted chassis to prepare for building the vertical motor chassis
-=======
 # 2021-09-21  
 ## Sava, Amulya, Rishab, Aadi, Alisha
 
@@ -65,7 +63,6 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 
 
 
->>>>>>> f34277b849a477a2838a1f0d5456aa2df5f0a124
 
 # 2021-9-28
 
