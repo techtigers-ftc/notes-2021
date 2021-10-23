@@ -61,9 +61,6 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 -   9/30/21 - CAD is complete.
 
 
-
-
-
 # 2021-9-28
 
 **Members Present:** Amu
@@ -74,6 +71,7 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 
 **Blocking:**
 * Find the colored tape to complete the shared shipping hub
+
 
 # 2021-10-2
 
@@ -88,6 +86,17 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 * Wating for program to test its basic navigation
 
 
+# 2021-9-27
+
+**Members Present:** Amu, Alisha
+
+**Notes:**
+* Finished planning for Sharon Day
+* Put together marshmallow challenge bags and made mason jars
+* Tested lava lamp experiment
+* Put together informational flyer with Tech Tigers info + QR code to website
+
+
 # 2021-10-5
 
 **Members Present:** Aadi, Govind, and Amulya
@@ -98,3 +107,18 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 **Blocking** 
 * Need to create space for perimeter
 * Waiting for tiles to arrive
+
+**Blocking:**
+* Nothing
+
+
+# 2021-10-04
+
+**Members Present:** Amulya, Alisha, and Aadi
+
+**Notes:**
+* Created meeting agenda for robotics club day 1
+* Seperated the 5 different robot kits
+
+**Blocking:**
+* None
