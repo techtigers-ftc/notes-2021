@@ -122,3 +122,14 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 
 **Blocking:**
 * None
+
+# 2021-10-24
+
+**Members Present:** Aadi, Arya
+
+**Notes:**
+* Started changing the 2-hole motor holder to a 5-hole holder 
+* Mounted both 5-hole holders, need to add motor assembly and wheels
+
+**Blocking:**
+* Nothing
