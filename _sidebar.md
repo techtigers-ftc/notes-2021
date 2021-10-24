@@ -1,7 +1,7 @@
 * [Home](./)
 * [Planning](./planning/README)
 * [Meeting Notes](./meeting-notes/notes)
-* [Programming](./programming/control-system)
+* [Programming](./programming/README)
 * [How To](./how-to/README)
 * [Robot Design](./robot-design/README)
 * [Outreach](./outreach/outreach-notes.md)

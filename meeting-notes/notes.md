@@ -32,7 +32,9 @@ Members Present: Amu
 Notes:
 
 * Began taking apart the lifted chassis to prepare for building the vertical motor chassis
+
 # 2021-09-21  
+
 ## Sava, Amulya, Rishab, Aadi, Alisha
 
 We started discussing drivetrains. We decided our drivetrain needs to be able to go over the blocker. We eliminated swerve drive immediately because it is too complicated and would likely have trouble. We settled on two main options, tank (with wheels or treads), and lifted mecanum. We also put some thought into “triples.” A system where wheels are minted in a triangle shape and when it hits an obstacle they rotate. This would allow us to easily cross the obstacle. We decided against it because of the complexity and inability to strafe. In the end, we decided to proceed with a lifted mecanum drive train and build a prototype.
@@ -119,6 +121,19 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 **Notes:**
 * Created meeting agenda for robotics club day 1
 * Seperated the 5 different robot kits
+
+**Blocking:**
+* None
+
+# 2021-10-23
+
+**Members Present:** Rishi, Rishabh
+
+**Notes:**
+* IMU implementation
+* Resolved issue with drive direction
+* Discussed autonomous controller with modes
+* Need to create tasks for modes
 
 **Blocking:**
 * None
