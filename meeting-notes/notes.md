@@ -32,7 +32,9 @@ Members Present: Amu
 Notes:
 
 * Began taking apart the lifted chassis to prepare for building the vertical motor chassis
+
 # 2021-09-21  
+
 ## Sava, Amulya, Rishab, Aadi, Alisha
 
 We started discussing drivetrains. We decided our drivetrain needs to be able to go over the blocker. We eliminated swerve drive immediately because it is too complicated and would likely have trouble. We settled on two main options, tank (with wheels or treads), and lifted mecanum. We also put some thought into “triples.” A system where wheels are minted in a triangle shape and when it hits an obstacle they rotate. This would allow us to easily cross the obstacle. We decided against it because of the complexity and inability to strafe. In the end, we decided to proceed with a lifted mecanum drive train and build a prototype.
@@ -61,9 +63,6 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 -   9/30/21 - CAD is complete.
 
 
-
-
-
 # 2021-9-28
 
 **Members Present:** Amu
@@ -74,6 +73,7 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 
 **Blocking:**
 * Find the colored tape to complete the shared shipping hub
+
 
 # 2021-10-2
 
@@ -88,6 +88,17 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 * Wating for program to test its basic navigation
 
 
+# 2021-9-27
+
+**Members Present:** Amu, Alisha
+
+**Notes:**
+* Finished planning for Sharon Day
+* Put together marshmallow challenge bags and made mason jars
+* Tested lava lamp experiment
+* Put together informational flyer with Tech Tigers info + QR code to website
+
+
 # 2021-10-5
 
 **Members Present:** Aadi, Govind, and Amulya
@@ -98,3 +109,42 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 **Blocking** 
 * Need to create space for perimeter
 * Waiting for tiles to arrive
+
+**Blocking:**
+* Nothing
+
+
+# 2021-10-04
+
+**Members Present:** Amulya, Alisha, and Aadi
+
+**Notes:**
+* Created meeting agenda for robotics club day 1
+* Seperated the 5 different robot kits
+
+**Blocking:**
+* None
+
+# 2021-10-23
+
+**Members Present:** Rishi, Rishabh
+
+**Notes:**
+* IMU implementation
+* Resolved issue with drive direction
+* Discussed autonomous controller with modes
+* Need to create tasks for modes
+
+**Blocking:**
+* None
+
+# 2021-10-24
+
+**Members Present:** Aadi, Arya
+
+**Notes:**
+* Started changing the 2-hole motor holder to a 5-hole holder 
+* Mounted both 5-hole holders, need to add motor assembly and wheels
+
+**Blocking:**
+* Nothing
