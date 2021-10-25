@@ -7,6 +7,16 @@ Notes:
 * **Programming**: Implemented the mecanum wheel driver
 * **Outreach**: Came up with a lesson plan for the week 3 class
 
+# 2021-10-22
+
+Members present: Amu, Alisha
+
+Notes:
+* Started drafting a high-level plan for the qualifier
+* Identified roles needed and the headcount for each role
+* Discussed reaching out to community members to be judges and referees
+* Talked about when to meet again and steps going forward
+
 # 2021-10-16
 
 Members Present: Amu, Aadi

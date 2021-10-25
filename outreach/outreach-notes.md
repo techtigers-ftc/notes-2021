@@ -1,11 +1,4 @@
-# 2021-10-22
-Members present: Amu, Alisha
 
-Notes:
-* Started drafting a high-level plan for the qualifier
-* Identified roles needed and the headcount for each role
-* Discussed reaching out to community members to be judges and referees
-* Talked about when to meet again and steps going forward
 
 # 2021-10-18
 Members present: Amu, Rishi, Aadi, Alisha, Rishabh, Arya
