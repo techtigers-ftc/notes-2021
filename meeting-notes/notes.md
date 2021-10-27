@@ -173,4 +173,14 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 **Notes:**
 * Outreach: Finished planning for the STEM Camp tommorow
 * Robot Mech: Completely finished changing 2-hole motor holder to 5-hole with motors on the inside
-* Robot Programming: Worked on creating AutoController and example modes. Need to write tests. 
+* Robot Programming: Worked on creating AutoController and example modes. Need to write tests.
+
+#2021-10-26
+
+**Members Present:** Aadi, Amulya, Alisha, and Sava
+**Notes:**
+* Replaced original screws in the motor assembly to the low-profile ones
+* Mounted the intake motor onto the robot
+
+**Blocking:**
+* Nothing
