@@ -136,6 +136,14 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 
 # 2021-10-23
 
+**Members Present:** Aadi, Arya
+
+**Notes:**
+* Started changing the 2-hole motor holder to a 5-hole holder 
+* Mounted both 5-hole holders, need to add motor assembly and wheels
+
+**Blocking:**
+* Nothing
 **Members Present:** Rishi, Rishabh
 
 **Notes:**
@@ -154,6 +162,24 @@ We finally received the missing parts for the lifted chassis. We finished buildi
 **Notes:**
 * Started changing the 2-hole motor holder to a 5-hole holder 
 * Mounted both 5-hole holders, need to add motor assembly and wheels
+
+**Blocking:**
+* Nothing
+
+# 2021-10-24
+
+**Members Present:** Aadi, Sava, Arya, Amulya, Rishi, Rishabh, Govind
+**Notes:**
+* Outreach: Finished planning for the STEM Camp tommorow
+* Robot Mech: Completely finished changing 2-hole motor holder to 5-hole with motors on the inside
+* Robot Programming: Worked on creating AutoController and example modes. Need to write tests.
+
+#2021-10-26
+
+**Members Present:** Aadi, Amulya, Alisha, and Sava
+**Notes:**
+* Replaced original screws in the motor assembly to the low-profile ones
+* Mounted the intake motor onto the robot
 
 **Blocking:**
 * Nothing
