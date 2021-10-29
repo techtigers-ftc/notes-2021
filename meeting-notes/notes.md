@@ -1,3 +1,11 @@
+# 2021-10-29
+
+Members Present: Amu
+
+**Notes:**
+* Robot: Worked on the claw design for the intake in CAD
+* Outreach: Made the overall outreach plan, began distributing tasks for the qualifier, and also sent out the email to the potential qualifier judge volunteers
+
 # 2021-10-28
 
 Members Present: Amu
