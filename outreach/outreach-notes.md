@@ -1,3 +1,62 @@
+# 2021-10-25
+Members Present: Amu, Rishi, Aadi, Alisha, Arya, Rishabh, Govind
+
+## **Week 4: Color Sensors (cont'd), Ultrasonic Sensors, and FLL Missions Intro
+***
+
+Icebreaker: Alisha
+Musical Chairs
+
+**IMPORTANT:**
+Q&A for sensors: Rishi
+What are the different sensors?
+Why do we use sensors?
+
+**Groups:**
+Group A: 2 teams, Arya + Rishabh
+Group B: 2 teams, Alisha + Aadi
+Group C: 1 team (the 3rd graders), Amulya
+
+Each rotation lasts for 30-35 minutes
+
+**Rotation 1:**
+Group A at Missions
+Group B at Color Sensors
+Group C at Ultrasonic
+
+**Rotation 2:**
+Group C at Missions
+Group A at Color Sensors
+Group B at Ultrasonic Sensors
+
+**Rotation 3:**
+Group B at Missions
+Group C at Color Sensors
+Group A at Ultrasonic
+
+Missions description:
+Group leads walk the teams through the missions, the teams come up with ideas to solve missions. Leads should guide teams to the right missions for their level. Leads and teams choose three missions they would like to attempt. Draw out plans on a paper for attachments and general mission strategy.
+
+Color Sensors description:
+Help the group mount 2 color sensors in front of the robot, explain the distance between the sensor and floor.
+Challenge 1:
+Align robot with line: Figure 1
+Explain essence of alignment with line: move both motors, if a color sensor senses black, stop the motor corresponding with that sensor.
+Guide team through code-writing process, do not write the code for them
+Explain how alignment could be useful in missions 
+Challenge 2:
+	Zig-zag line follow: Figure 2
+Use two long strips of yellow and red paper, red to the right of yellow. If sensing red, move to the left, and if sensing yellow, move to the right.
+
+
+
+Ultrasonic Sensors description:
+Help group mount 1 ultrasonic sensor in the front of the robot. Explain what an ultrasonic sensor measures, and depending on the age of the group, explain how an ultrasonic sensor works.
+Challenge 1: Figure 3
+Stop & Go: Move forward. If sensor senses an object less than 3 cm away from it, stop the robot
+Play with code, move wall up and down and see how robot reacts
+Challenge 2: Figure 4
+Use 4 boards as shown and reuse part of the code from the previous challenge: Move forward. If the distance from the robot to a board is less than 3 cm, turn 90º clockwise, keep moving forward. The robot should move in a rectangular pattern
 
 
 # 2021-10-18
