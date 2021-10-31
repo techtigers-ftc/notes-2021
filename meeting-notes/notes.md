@@ -1,3 +1,12 @@
+
+
+# 2021-10-30
+Members Present: Aadi, Sava, Govind
+**Notes:**
+*Finished bottom intake
+*Worked on CAD for arm of the servo motor on the viper slide
+
+
 # 2021-10-29
 
 Members Present: Rishi
