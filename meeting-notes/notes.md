@@ -1,5 +1,14 @@
 # 2021-10-29
 
+Members Present: Rishi
+
+**Notes:**
+* Programming: Finished AutoController and completed pull request
+* Organization: Changed GitHub project board to new beta version 
+
+
+# 2021-10-29
+
 Members Present: Amu
 
 **Notes:**
