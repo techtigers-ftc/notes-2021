@@ -1,4 +1,10 @@
-
+# 2021-10-31
+Members Present: Aadi, Sava, Govind, Alisha, Amu, Rishi, Rishabh
+**Notes:**
+Mechanical:Fixed squeaking issues with the robot, finalized intake
+Programming: 
+Outreach:
+Other:
 
 # 2021-10-30
 Members Present: Aadi, Sava, Govind
