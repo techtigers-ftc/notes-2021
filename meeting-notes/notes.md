@@ -1,3 +1,15 @@
+#2021-10-30
+
+Members Present: Aadi, Sava, Govind, Arya, Amu 
+
+**Notes:**
+*Finished bottom intake
+*Worked on CAD for claw
+
+
+
+
+
 # 2021-10-29
 
 Members Present: Amu
