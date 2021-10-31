@@ -1,10 +1,13 @@
 # 2021-10-31
-Members Present: Aadi, Sava, Govind, Alisha, Amu, Rishi, Rishabh
+Members Present: Aadi, Sava, Govind, Alisha, Amu, Rishi, Rishabh AKA Rick Chubb
 **Notes:**
 Mechanical:Fixed squeaking issues with the robot, finalized intake
-Programming: 
+Programming:
+ - Fixed driving issue on robot
+ - Working on manipulator module
+ - Implemented manipulator properties into controller
 Outreach:
-Other:
+Other: Created new task board using GitHub projects beta for all teams
 
 # 2021-10-30
 Members Present: Aadi, Sava, Govind
