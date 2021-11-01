@@ -1,7 +1,38 @@
+# 2021-11-1
+
+## **Week 5: Getting Started on a Mission**
+***
+
+**Icebreaker:** Alisha
+* Organize by birthday
+
+**Introduction:**
+* Recap: Last week we worked with color and ultrasonic sensors, went through each mission and you all chose 3 missions to do
+* Agenda: Mission Strategy, decide which 1 mission to fully attempt
+* Think about: Do you need color sensors? Do you need attachments? - can you push something with your robot itself?
+
+**Materials:**
+* Cargo Connect Mat - print sheets and put in sheet protectors
+* 5 robots, 5 color sensors, and cables
+* Tiles to put mat on
+* 2 FLL mats and mission modes
+* Paper and pencils
+* Expo markers
+
+**Setup:**
+One table and one-floor mat
+5 tables for teams to work on
+
+**Today’s description:**
+To start off, the teams should decide on 1 mission to work on. They should brainstorm more ideas and plan their design on paper before starting. Team leads make sure they have an actual plan to avoid confusion. Then, start by navigating from launch to the mission, complete the mission, and navigate to home. DO NOT HAVE THEM COMBINE MISSIONS  or even start a second mission. The main focus is for them to try and complete an individual mission.
+
+Optional:
+Use color sensors for navigation.
+
 # 2021-10-25
 Members Present: Amu, Rishi, Aadi, Alisha, Arya, Rishabh, Govind
 
-## **Week 4: Color Sensors (cont'd), Ultrasonic Sensors, and FLL Missions Intro
+## **Week 4: Color Sensors (cont'd), Ultrasonic Sensors, and FLL Missions Intro**
 ***
 
 Icebreaker: Alisha
