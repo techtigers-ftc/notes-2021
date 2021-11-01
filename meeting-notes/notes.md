@@ -1,3 +1,30 @@
+# 2021-10-31
+Members Present: Aadi, Sava, Govind, Alisha, Amu, Rishi, Rishabh AKA Rick Chubb
+**Notes:**
+Mechanical:Fixed squeaking issues with the robot, finalized intake
+Programming:
+ - Fixed driving issue on robot
+ - Working on manipulator module
+ - Implemented manipulator properties into controller
+Outreach:
+Other: Created new task board using GitHub projects beta for all teams
+
+# 2021-10-30
+Members Present: Aadi, Sava, Govind
+**Notes:**
+*Finished bottom intake
+*Worked on CAD for arm of the servo motor on the viper slide
+
+
+# 2021-10-29
+
+Members Present: Rishi
+
+**Notes:**
+* Programming: Finished AutoController and completed pull request
+* Organization: Changed GitHub project board to new beta version 
+
+
 # 2021-10-29
 
 Members Present: Amu
