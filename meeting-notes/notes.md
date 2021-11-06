@@ -1,4 +1,12 @@
 # 2021-11-6
+Members Present: Rishi, Rishabh
+**Notes:**
+* Created IManipulator interface
+* Created Intake manipulator class
+* Added intake and spin power to IController and DefaultController
+* Working on basic AutoOp and TeleOp including manipulators
+
+# 2021-11-6
 Members Present: Aadi, Sava, Govind
 **Notes:**
 * Ducky Spinner was mounted
