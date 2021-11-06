@@ -1,3 +1,11 @@
+# 2021-11-6
+Members Present: Aadi, Sava, Govind
+**Notes:**
+* Ducky Spinner was mounted
+* Controller + Expansion Hub mounted onto acryllic plate    
+
+
+
 # 2021-10-31
 Members Present: Aadi, Sava, Govind, Alisha, Amu, Rishi, Rishabh AKA Rick Chubb
 **Notes:**
@@ -8,7 +16,7 @@ Programming:
  - Implemented manipulator properties into controller
 Outreach:
 Other: Created new task board using GitHub projects beta for all teams
-
+    
 # 2021-10-30
 Members Present: Aadi, Sava, Govind
 **Notes:**
