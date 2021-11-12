@@ -1,3 +1,11 @@
+# 2021-11-11
+Members Present: Rishi
+**Notes:**
+* Created seperate intake and spinner modes
+* Need to create new modes that include multiple functions so we can run things 
+in parallel
+* Working on a mission strategy for autoOp
+
 # 2021-11-6
 Members Present: Rishi, Rishabh
 **Notes:**
