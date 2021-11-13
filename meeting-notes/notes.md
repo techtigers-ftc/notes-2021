@@ -6,6 +6,13 @@ Members Present: Rishi
 in parallel
 * Working on a mission strategy for autoOp
 
+# 2021-11-9
+
+Members Present: Amu
+**Notes:**
+* Did CAD work to adjust the intake wheels to prevent it from breaking
+* Reduced the length of the intake holder arm
+
 # 2021-11-6
 Members Present: Rishi, Rishabh
 **Notes:**
