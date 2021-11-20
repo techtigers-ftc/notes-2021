@@ -1,3 +1,11 @@
+# 2021-11-21
+Members Present: Aadi
+**Notes:**
+* Created checklist for scrimmage
+* Drew out ideas for intake box
+
+
+
 # 2021-11-11
 Members Present: Rishi
 **Notes:**
