@@ -1,9 +1,14 @@
+# 2021-11-25
+Members Present: Aadi
+**Notes:**
+* Created carrier assembly in CAD
+
+
 # 2021-11-21
 Members Present: Aadi
 **Notes:**
 * Created checklist for scrimmage
 * Drew out ideas for intake box
-
 
 
 # 2021-11-11
