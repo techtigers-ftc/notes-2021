@@ -1,3 +1,93 @@
+# 2021-11-22
+
+## **Week 8: Special FLL Scrimmage**
+***
+
+**Introduction:**
+Recap - Amu
+* Last week, you worked on completing missions by adjusting their robot and planning navigation.
+Agenda for today - Alisha
+* We have an SYRA scrimmage so if you are part of an FLL team next year, you will be in their positions. Today you will be watching REAL rounds performed by registered FLL teams and then you will discuss in your groups ideas you get from this scrimmage. 
+
+**Materials**
+* Cargo Connect Mat
+* 5 robots, 5 color sensors, and cables
+* Tiles to put the mat on
+* 2 FLL mats and mission modes
+* Paper and pencils
+* Expo markers
+
+**Today’s description:**
+* Intro
+* Watch Scrimmage
+* (If time permits) Discuss new ideas and plan and add onto robot
+
+# 2021-11-15
+
+## **Week 7: Keep Working With the Missions**
+***
+
+**Icebreaker:** No icebreaker, we want kids to jump right into working so they’ll have more time to work
+
+**Introduction:**
+Recap + Agenda - Amu:
+* Last two weeks, you’ve been working on completing the three missions that you selected
+* This week, you will continue working on your missions
+* Mission Strategy + things to have teams think about: Have you started using color sensors or any attachments? Will you need to consider it for any upcoming missions? Talk within your groups
+
+**Materials:**
+* Cargo Connect Mat
+* 5 robots, 5 color sensors, and cables
+* Tiles to put the mat on
+* 2 FLL mats and mission modes
+* Paper and pencils
+* Expo markers
+
+**Setup:**
+* One table and one-floor mat
+* 5 tables for teams to work on
+
+**Today’s description:**
+Before getting hands-on with the robot, groups will have a quick discussion about whether or not they want to consider using any attachments or sensors. Then, they'll send a representative to tell a ref their mission strategy.Finally, they’ll either continue working on the mission they were doing last week or start a new one. Think about chaining missions together in one run if it makes sense for their mission strategy. 
+
+**Optional:**
+Use color sensors for navigation
+
+
+# 2021-11-8
+
+## **Week 6: Continuing with Missions and Introducing Sensors/Attachments**
+***
+
+**Icebreaker:** Alisha
+* Follow the beat/leader
+
+**Introduction:**
+Recap + Agenda - Aadi:
+* Went through each mission and you all chose 3 missions to do
+Mission Strategy: how are you going to combine missions effectively?
+* Think about: Do you need color sensors? Do you need attachments?
+* Ask teams to describe their mission strategy and what they have done so far
+
+**Materials:**
+* Cargo Connect Mat
+* 5 robots, 5 color sensors, and cables
+* Tiles to put the mat on
+* 2 FLL mats and mission modes
+* Paper and pencils
+* Expo markers
+
+**Setup:**
+* One table and one-floor mat
+* 5 tables for teams to work on
+
+**Today’s description:**
+To start off, the teams should decide on another mission to work on. They should brainstorm more ideas and plan their design on paper before starting. Team leads make sure they have an actual plan to avoid confusion. Then, start by navigating from launch to the mission, complete the mission, and navigate to home. TRY TO HAVE THEM COMBINE MISSIONS. 
+
+**Optional:**
+Use color sensors for navigation.
+
+
 # 2021-11-1
 
 ## **Week 5: Getting Started on a Mission**
@@ -9,7 +99,6 @@
 **Introduction:**
 * Recap: Last week we worked with color and ultrasonic sensors, went through each mission and you all chose 3 missions to do
 * Agenda: Mission Strategy, decide which 1 mission to fully attempt
-* Think about: Do you need color sensors? Do you need attachments? - can you push something with your robot itself?
 
 **Materials:**
 * Cargo Connect Mat - print sheets and put in sheet protectors
@@ -25,9 +114,6 @@ One table and one-floor mat
 
 **Today’s description:**
 To start off, the teams should decide on 1 mission to work on. They should brainstorm more ideas and plan their design on paper before starting. Team leads make sure they have an actual plan to avoid confusion. Then, start by navigating from launch to the mission, complete the mission, and navigate to home. DO NOT HAVE THEM COMBINE MISSIONS  or even start a second mission. The main focus is for them to try and complete an individual mission.
-
-Optional:
-Use color sensors for navigation.
 
 # 2021-10-25
 Members Present: Amu, Rishi, Aadi, Alisha, Arya, Rishabh, Govind

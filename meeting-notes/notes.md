@@ -1,3 +1,51 @@
+# 2021-11-29
+Members Present: Aadi, Amu, Alisha, Rishi, Govind
+
+**Notes:**
+* Did qualifier planning and preparation
+* Got all the printouts we need, organized everything, and put them in sheet protectors
+* Developed plan for the opening and closing ceremonies and distributed speaking parts
+* Worked on refining the robot game scorer
+
+# 2021-11-28
+Members Present: Aadi, Amu, Alisha, Arya, Rishi, Rishabh, Sava, Govind
+
+**Notes:**
+* Qualifier: Finished creating all the printouts of signs, schedules, and other event details
+* Worked on the scoring system for the robot game matches
+* Also finished the detailed checklist of ALL the event materials
+* Robot: Worked on the dropper CAD, rebuilt the cage and bearing mount using variables and formulas
+* Also started taking off unneeded parts of the robot so we're ready to assemble the next version of the robot
+
+# 2021-11-27
+Members Present: Aadi, Amu, Alisha, Arya, Rishi, Rishabh, Govind
+
+**Notes:**
+* Worked on preparation for qualifier
+* Came up with solutions to make cubicle walls taller, how to make a barrier for the robot game area, and bought concessions from BJs
+* Started a checklist of materials needed for the day of the event
+
+# 2021-11-27
+Members Present: Amu
+
+**Notes:**
+* Worked on CAD assembly for the cube/block dropper
+* Made the bearing mount and mounted it onto the cage
+
+# 2021-11-26
+Members Present: Aadi, Amu, Alisha, Arya, Rishi, Rishabh, Govind
+
+**Notes:**
+* Went over detailed qualifier plan
+* Finished making schedules, layouts, and started working on all of the printouts needed for the event
+
+# 2021-11-26
+Members Present: Amu
+
+**Notes:**
+* Worked on CAD assembly for the cube/block dropper
+* Put together the cage and started mounting the servo+servo mount
+
 # 2021-11-25
 Members Present: Aadi
 **Notes:**
