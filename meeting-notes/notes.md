@@ -1,3 +1,11 @@
+#2021-11-30
+Members Present: Aadi, Sava, and Govind
+
+**Notes:**
+* Took apart remaining parts of the old chassis
+* Implemented new chassis design 
+* Finished automating judging session scores to spreadsheet procces 
+
 # 2021-11-29
 Members Present: Aadi, Amu, Alisha, Rishi, Govind
 
