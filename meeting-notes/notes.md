@@ -51,6 +51,13 @@ Members Present: Aadi
 **Notes:**
 * Created carrier assembly in CAD
 
+# 2021-11-24
+Members Present: Sava, Amu
+**Notes:**
+* Talked about the design of the base chassis
+* Discussed the plan for the two-step intake and how it works
+* Distributed the next CAD tasks going forward
+
 
 # 2021-11-21
 Members Present: Aadi
