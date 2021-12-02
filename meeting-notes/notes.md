@@ -1,3 +1,12 @@
+#2021-12-01
+Members Present: Rishi
+
+**Notes:**
+* Worked on implementing Dropper manipulator
+* Implemented HardwareManager and included it in StartOp
+* Next step is to implement a new dropper manipulator with servos moving an equal
+  amount based on the time
+
 #2021-11-30
 Members Present: Aadi, Sava, and Govind
 
