@@ -1,3 +1,11 @@
+#2021-12-10
+Members Present: Rishi, Rishabh
+
+**Notes:**
+* Created new dropper manipulator structure
+* Wrote docs for ServoAction code
+* Working on intake manipulator code
+
 #2021-12-01
 Members Present: Rishi
 
