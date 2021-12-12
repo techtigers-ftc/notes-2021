@@ -1,6 +1,13 @@
+#2021-12-12
+Members Present: Govind, Aadi, Sava, Arya
+**Notes:**
+* Updated CAD 
+* Mounted Ducky spinner
+* Extended c-channels
+
+
 #2021-12-10
 Members Present: Rishi, Rishabh
-
 **Notes:**
 * Created new dropper manipulator structure
 * Wrote docs for ServoAction code
