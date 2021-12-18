@@ -1,19 +1,28 @@
-#2021-12-12
+# 2021-12-18
+Members Present: Amu
+
+**Notes:**
+* Collected all the qualifier income and expenses to be added to the budget sheet
+* Put together all the certificates for the final robotics class
+
+# 2021-12-12
 Members Present: Govind, Aadi, Sava, Arya
+
 **Notes:**
 * Updated CAD 
 * Mounted Ducky spinner
 * Extended c-channels
 
 
-#2021-12-10
+# 2021-12-10
 Members Present: Rishi, Rishabh
+
 **Notes:**
 * Created new dropper manipulator structure
 * Wrote docs for ServoAction code
 * Working on intake manipulator code
 
-#2021-12-01
+# 2021-12-01
 Members Present: Rishi
 
 **Notes:**
@@ -22,7 +31,7 @@ Members Present: Rishi
 * Next step is to implement a new dropper manipulator with servos moving an equal
   amount based on the time
 
-#2021-11-30
+# 2021-11-30
 Members Present: Aadi, Sava, and Govind
 
 **Notes:**
