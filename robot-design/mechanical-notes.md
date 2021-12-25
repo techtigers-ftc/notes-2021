@@ -209,3 +209,12 @@
 **Blocking:**
 * waiting on parts for lift
 * waiting on materials for intake roller
+
+#2021-12-25
+Members Present: Aadi
+**Notes:**
+* Made battery holder v2
+* Added correct measurements and shifted the position of the slits
+
+**Blocking:**
+* waiting on the go ahead to 3D print, will make edits where needed
