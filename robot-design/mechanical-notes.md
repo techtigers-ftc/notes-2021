@@ -218,3 +218,13 @@ Members Present: Aadi
 
 **Blocking:**
 * waiting on the go ahead to 3D print, will make edits where needed
+
+#2021-12-27
+
+**Notes:**
+* Finalized battery holder
+* Measured out shields for motor
+* Made slight adjustments to screw placements
+
+**Blocking:**
+* 3D print on holder so we can mount it
