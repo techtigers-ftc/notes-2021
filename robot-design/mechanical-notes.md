@@ -220,7 +220,7 @@ Members Present: Aadi
 * waiting on the go ahead to 3D print, will make edits where needed
 
 #2021-12-27
-
+Members Present: Aadi and Sava
 **Notes:**
 * Finalized battery holder
 * Measured out shields for motor
@@ -228,3 +228,15 @@ Members Present: Aadi
 
 **Blocking:**
 * 3D print on holder so we can mount it
+
+#2021-12-28
+Members Present: Aadi and Sava
+**Notes:**
+* Printed out temp battery holder
+* Created back board for the objects to go in
+* Added chassis connectors to c-channel (for acryllic)
+* Tested robot functions
+
+**Blocking:**
+* Need to CAD ends of the acryllic to do the chassis
+* Reprint battery holder
