@@ -240,3 +240,15 @@ Members Present: Aadi and Sava
 **Blocking:**
 * Need to CAD ends of the acryllic to do the chassis
 * Reprint battery holder
+
+#2021-12-29
+
+**Notes:**
+* Mounted acryllic plates
+* Cut out shields for motors 
+* Spray painted the shields
+* Mounted battery holder
+* Changed positioning of switch
+
+**Blocking:**
+* Waiting for print to replace holder
