@@ -242,7 +242,7 @@ Members Present: Aadi and Sava
 * Reprint battery holder
 
 #2021-12-29
-
+Members Present: Aadi and Sava
 **Notes:**
 * Mounted acryllic plates
 * Cut out shields for motors 
@@ -252,3 +252,13 @@ Members Present: Aadi and Sava
 
 **Blocking:**
 * Waiting for print to replace holder
+
+#2021-12-30
+Members Present: Aadi and Sava
+
+**Notes:**
+* Developed design for wheel mounts (Aadi)
+* Printed (Sava)
+
+**Blocking:**
+* waiting on pictures and to mount
